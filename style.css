@@ -1,0 +1,35 @@
+body {
+    padding: 3vh 3vw;
+    background-color: antiquewhite;
+}
+
+div.info {
+    padding: 3vh 3vw;
+    margin: 1vh 1vw
+}
+
+.genre-section {
+    background-color: red;
+}
+
+.band-section {
+    background-color: green;
+}
+
+a {
+    color: aquamarine;
+    font-style: italic;
+}
+
+strong {
+    color: darkorchid;
+}
+
+img.cover-art {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+   
+
+}
